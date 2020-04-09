@@ -1,0 +1,11 @@
+#PRTO_Pirate_Galley
+^
+^
+^[Pirate Galleys] are the scourge of the ancient Mediterranean. They have hidden nationality and can attack shipping without causing a war. 
+#DESC_PRTO_Pirate_Galley
+^
+^
+^Piracy is a very ancient profession and was common at various times in the ancient world, even before the invention of gunpower. Several ancient nations actively suppressed the activity of pirates, such as the Etruscans and Carthaginians in the western Mediterranean and the Greeks, Macedonians and the island of Rhodes in the eastern Mediterranean. But the Roman Republic, who absorbed all these nations into her empire, were not interested in the sea, and so from the 2nd century BC piracy rose dramatically. Eventually even the Romans realised that something had to be done, and so in 67 BC they gave extraordinary powers to the proconsul Pompey who was given the whole Mediterranean instead of a single province as his command. Within two years he had cleared the pirates from their main bases of north Africa, Sicily, Corsica and Sardinia in the west, and Illyria, Crete and Cilicia (in southern Anatolia) in the east, at last making the Mediterranean safe for Roman trading ships. Pirates did not reappear untill  250 AD, when the Goths began raiding the Black Sea and the Aegean. In the last days of the Western Roman Empire in the 5th century AD, piracy rode to new heights, with raiders from the Vandal kingdom of north Africa, the Visigothic kingdom of Spain, and even in the North Sea from the Saxons, Picts and celtic Irish. The Barbary Coast of north Africa remained a notorious haven for pirates well into the 16th century.          
+         
+
+   

@@ -1,0 +1,21 @@
+#PRTO_Persian_Galley
+^
+^
+^The [galley] is the first naval unit you can build. These tiny, primitive ships must end each turn in a 
+$LINK<coastal=TERR_Coast> 
+square -- they are in danger of sinking if they end their turn in a $LINK<sea=TERR_Sea> or $LINK<ocean=TERR_Ocean> square. 
+If $LINK<The Great Lighthouse=BLDG_Lighthouse> is built, galleys may safely end turns at sea, but never ocean squares.
+#DESC_PRTO_Persian_Galley
+^
+^
+^The galley was the first ship designed for war. Introduced by the Greeks and Phoenicians, galleys were powered by banks
+of oars on each side, manned by well-trained oarsmen. These oarsmen were highly paid professionals or 
+patriotic citizens, not slaves and prisoners as depicted in fiction. A huge, bronze "beak" mounted at the 
+bow of the ship was used to ram and sink enemy ships. Because of its long, narrow hull, the galley was very 
+unstable in all but the calmest waters, and as a consequence its crew rarely ventured out of sight of land 
+for long periods of time, lest the ship be caught in a storm and sunk. The eastern nations of the Mediterranean, such
+as the Ottoman Turks, continued using galleys until well after the introduction of gunpowder, and they did use slaves as oarsmen.
+
+         
+
+   
