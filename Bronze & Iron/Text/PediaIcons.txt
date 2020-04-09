@@ -4823,11 +4823,11 @@ Catapult
 #ANIMNAME_PRTO_Trireme
 Trireme
 #ANIMNAME_PRTO_Leader
-Leader Middle Ages
+Leader Ancient Times
 #ANIMNAME_PRTO_Leader_SCI
 aristotle
 #ANIMNAME_PRTO_Army
-ARMY MIDDLE AGES
+Army Ancient Times
 #ANIMNAME_PRTO_Bowman
 Bowman
 #ANIMNAME_PRTO_Hoplite
