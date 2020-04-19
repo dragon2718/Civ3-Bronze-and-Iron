@@ -4556,6 +4556,7 @@ This is the tenth and last Caravan House of the Silk Road.
 
 #TECH_Hard_Iron
 ^
+^{New Resource} $LINK<Iron=GOOD_Iron> deposits appear on the map.
 ^
 #DESC_TECH_Hard_Iron
 ^
@@ -4749,7 +4750,6 @@ $LINK<Espionage Missions=GCON_Espionage>.
 #TECH_Iron_Casting
 ^
 ^
-^{New Resource} $LINK<Iron=GOOD_Iron> deposits appear on the map.
 ^
 ^
 #DESC_TECH_Iron_Casting
